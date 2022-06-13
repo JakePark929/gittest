@@ -26,11 +26,7 @@ public class Member {
 
 	@Override
 	public String toString() {
-<<<<<<< HEAD
 		return "name=" + name + ", age=" + age;
-=======
-		return "Member [name=" + name + ", age=" + age + "]";
->>>>>>> branch 'goodee' of https://github.com/JakePark929/gittest.git
 	}
 	
 }
